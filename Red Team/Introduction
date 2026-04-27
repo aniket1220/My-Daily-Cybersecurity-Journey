@@ -1,1 +1,38 @@
 
+1
+RED TEAM
+PROJECT SCOP
+April 27, 2026
+INTRODUCTION TO RED TEAMING
+1. What is red teaming?
+Red teaming is the process of emulating the tactics, techniques, and procedures (TTPs) of real-world
+threats or APTs, with the goal of measuring the effectiveness and resilience of defenders (Blue Team),
+employees, processes, and the underlying technology of a target organization.
+The primary goal of red teaming is to gain a comprehensive understanding of an organization’s ability to
+detect and defend against adversarial tactics, techniques, and procedures (TTPs).
+Red teaming originated in the military, where designated units simulate adversarial behavior and attack
+techniques to evaluate the effectiveness and readiness of defensive teams.
+This process provides organizations with valuable insights into their Blue Team’s capabilities, identifying
+gaps where detection and defense mechanisms can be strengthened.
+
+
+
+2. Security Assessments
+To understand why red teaming is important, you first need to know the different types of security
+assessments used by organizations, their objectives, and how they differ from each other.
+From an offensive perspective, organizations use different security assessments to get a clear
+understanding of their threat surface, risks, possible business impact, and how strong their defenses are.
+
+
+3. Vulnerability Assessments
+vulnerability assessments are a common preventive security method where systems and assets are scanned
+to find vulnerabilities and misconfigurations. This helps organizations understand their threat surface and
+security level better.
+This helps the company decide where to focus their patching and remediation.
+This helps the company decide where to focus its patching and remediation efforts.
+
+
+4. Penetration Testing
+Penetration testing involves finding and trying to exploit vulnerabilities in a target system. It goes beyond
+vulnerability assessment by showing the real impact through exploitation.
+Penetration testing doesn’t stop at initial access; it also includes different post-exploitation activities.
