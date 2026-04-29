@@ -37,3 +37,44 @@ Penetration testing involves finding and trying to exploit vulnerabilities in a 
 vulnerability assessment by showing the real impact through exploitation.
 Penetration testing doesn’t stop at initial access; it also includes different post-exploitation activities.
 
+## 📅 Day 03 – Red Team Frameworks & Methodologies
+
+A successful red team engagement begins with clearly defining the goals/objectives with the client.
+
+The red team is then responsible for planning and orchestrating the engagement based on these predefined goals.
+
+Red teaming does not focus only on finding vulnerabilities. Instead, it targets the entire security operation, including people, processes, and technology.
+
+The outcome of a red team engagement should show:
+- How well the Blue Team can detect attacks  
+- How effectively they can respond  
+- Where improvements are needed  
+
+Red team engagements also simulate real-world TTPs so the Blue Team can learn how to detect and defend against them.
+
+A proper red team engagement requires a structured and methodical approach. Without structure, it becomes random testing and does not reflect real-world scenarios.
+
+That is why using frameworks and methodologies is important.
+
+### 🔧 Common Frameworks
+
+- Cyber Kill Chain  
+- MITRE ATT&CK Framework  
+
+These frameworks help in planning, structuring, and executing red team operations in a realistic and organized way.
+
+---
+
+### 💭 What I Learned
+
+- Red Teaming is not just exploitation  
+- It tests the full security posture  
+- Structure and planning are very important  
+- Frameworks help simulate real attackers  
+
+---
+
+### ⚡ Note
+
+This is part of my daily learning journey in Red Teaming and Offensive Security.  
+Consistency > Perfection
