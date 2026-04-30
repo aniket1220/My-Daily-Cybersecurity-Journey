@@ -56,7 +56,7 @@ A proper red team engagement requires a structured and methodical approach. With
 
 That is why using frameworks and methodologies is important.
 
-### 🔧 Common Frameworks
+ 🔧 Common Frameworks
 
 - Cyber Kill Chain  
 - MITRE ATT&CK Framework  
@@ -64,8 +64,7 @@ That is why using frameworks and methodologies is important.
 These frameworks help in planning, structuring, and executing red team operations in a realistic and organized way.
 
 ---
-
-### 💭 What I Learned
+ 💭 What I Learned
 
 - Red Teaming is not just exploitation  
 - It tests the full security posture  
@@ -74,7 +73,39 @@ These frameworks help in planning, structuring, and executing red team operation
 
 ---
 
-### ⚡ Note
+ ⚡ Note
 
 This is part of my daily learning journey in Red Teaming and Offensive Security.  
 Consistency > Perfection
+
+
+## MITRE ATT&CK Matrix
+
+The MITRE ATT&CK matrix shows how attackers actually perform attacks step by step.
+
+Each column in the matrix is called a tactic. It represents what the attacker wants to achieve at that stage. Under each tactic, there are multiple techniques which show how that goal is achieved.
+
+From what I understood (based on my notes :contentReference[oaicite:0]{index=0}), the attack flow is like this:
+
+- Reconnaissance → collecting information about the target  
+- Resource Development → preparing tools, domains, infrastructure  
+- Initial Access → getting entry into the system  
+- Execution → running malicious code  
+- Persistence → maintaining access  
+- Privilege Escalation → getting higher permissions  
+- Defense Evasion → avoiding detection  
+- Credential Access → stealing credentials  
+- Discovery → exploring the environment  
+- Lateral Movement → moving across systems  
+- Collection → gathering data  
+- Command and Control → communicating with attacker server  
+- Exfiltration → sending data out  
+- Impact → final damage (data loss, disruption, etc.)  
+
+In simple words:
+- Tactic = what attacker wants  
+- Technique = how attacker does it  
+
+This matrix basically shows the full lifecycle of an attack and helps in understanding how real attackers think and operate.
+
+For me, this made it clear that attacks are not random, they follow a structured path.
