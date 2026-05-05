@@ -1,4 +1,4 @@
-Red Teaming
+Red Teaming,
 
 Red teaming is when a group acts like a real attacker and tries to break into a system.
 
